@@ -2,15 +2,9 @@
 
 **These folders contain four different services!!**
 
-To start each service, you must install modules if it needs
-```
-npm ci
-```
+To start each service, you must install modules if it needs. Open each service in a new terminal and enter the command `npm ci`
 
-And then enter the command for each service to run it
-```
-npm run dev
-```
+And then enter the command `npm run dev` for each service to run it
 
 You can test it 
 
