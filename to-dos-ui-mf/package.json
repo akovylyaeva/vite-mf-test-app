@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite --host",
+    "dev": "vite --host",
     "start-local-env": "vite --host --mode local-env",
     "build": "tsc && vite build",
     "lint": "run-s lint-ts lint-eslint",
